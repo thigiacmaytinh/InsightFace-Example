@@ -8,7 +8,9 @@ Danh sách các ví dụ về ứng dụng của InsightFace
 
 ### 1. Phát hiện hướng nhìn khuôn mặt
 
-### 2. Nhân diện khuôn mặt
+### 2. So sánh khuôn mặt
+
+### 3. Nhân diện khuôn mặt
 
 ## Yêu cầu
 
