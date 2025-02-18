@@ -8,16 +8,17 @@ Danh sách các ví dụ về ứng dụng của InsightFace
 
 ### 1. Phát hiện hướng nhìn khuôn mặt
 
-[1.face_angle.ipynb](https://github.com/thigiacmaytinh/InsightFace/blob/8b0a76fd142dacadf43b2281dd5e52cfa4179dbc/1.face_angle.ipynb)
+[1.face_angle.ipynb](https://github.com/thigiacmaytinh/InsightFace/blob/thanh/1.face_angle.ipynb)
 
 ### 2. So sánh khuôn mặt
 
-[2.face_verify.ipynb](https://github.com/thigiacmaytinh/InsightFace/blob/8b0a76fd142dacadf43b2281dd5e52cfa4179dbc/2.face_verify.ipynb)
-[2.face_verify.py](https://github.com/thigiacmaytinh/InsightFace/blob/8b0a76fd142dacadf43b2281dd5e52cfa4179dbc/2.face_verify.py)
+[2.face_verify.ipynb](https://github.com/thigiacmaytinh/InsightFace/blob/thanh/2.face_verify.ipynb)
+
+[2.face_verify.py](https://github.com/thigiacmaytinh/InsightFace/blob/thanh/2.face_verify.py)
 
 ### 3. Nhận diện khuôn mặt
 
-[3.face_recognition.ipynb](https://github.com/thigiacmaytinh/InsightFace/blob/8b0a76fd142dacadf43b2281dd5e52cfa4179dbc/3.face_recognition.ipynb)
+[3.face_recognition.ipynb](https://github.com/thigiacmaytinh/InsightFace/blob/thanh/3.face_recognition.ipynb)
 
 ## Yêu cầu
 
