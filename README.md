@@ -14,8 +14,6 @@ Danh sách các ví dụ về ứng dụng của InsightFace
 
 [2.face_verify.ipynb](https://github.com/thigiacmaytinh/InsightFace/blob/thanh/2.face_verify.ipynb)
 
-[2.face_verify.py](https://github.com/thigiacmaytinh/InsightFace/blob/thanh/2.face_verify.py)
-
 ### 3. Nhận diện khuôn mặt
 
 [3.face_recognition.ipynb](https://github.com/thigiacmaytinh/InsightFace/blob/thanh/3.face_recognition.ipynb)
