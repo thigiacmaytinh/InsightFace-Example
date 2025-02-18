@@ -1,5 +1,5 @@
 # InsightFace
-InsightFace là một bộ công cụ mã nguồn mở để phân tích khuôn mặt 2D & 3D, chủ yếu dựa trên PyTorch và MXNet.
+[InsightFace](https://github.com/deepinsight/insightface) là một bộ công cụ mã nguồn mở để phân tích khuôn mặt 2D & 3D, chủ yếu dựa trên PyTorch và MXNet.
 InsightFace triển khai hiệu quả nhiều thuật toán tiên tiến trong nhận diện khuôn mặt, phát hiện khuôn mặt và căn chỉnh khuôn mặt, được tối ưu hóa cho cả quá trình huấn luyện và triển khai.
 
 ## Chức năng
